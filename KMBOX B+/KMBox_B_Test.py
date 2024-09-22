@@ -5,7 +5,7 @@ from time import sleep
 import random
 
 while True:
-    COM = input("Enter COM Number: ")
+    COM = input("Enter COM Number: 3")
     try:
         COM = int(COM)
         break
